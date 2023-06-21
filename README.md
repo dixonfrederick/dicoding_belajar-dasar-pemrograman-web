@@ -1,2 +1,2 @@
-# dicoding_belajar-dasar-pemrograman-web
-Project Akhir Dicoding - Belajar Dasar Pemrograman Web
+# Project Akhir Dicoding - Belajar Dasar Pemrograman Web
+Submission untuk project akhir materi Dicoding: Belajar Dasar Pemrograman Web
